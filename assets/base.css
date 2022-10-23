@@ -412,7 +412,7 @@ h5,
 .h4,
 .h5 {
   font-family: presley-slab,serif;
-  font-weight: 800;
+  font-weight: var(--font-heading-weight);
   font-style: normal;
   letter-spacing: calc(var(--font-heading-scale) * 0.06rem);
   color: rgb(var(--color-foreground));
